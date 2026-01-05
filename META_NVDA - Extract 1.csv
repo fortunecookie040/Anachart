@@ -1,0 +1,719 @@
+date,company_Name,ticker,broker,analytst,rating_before,rating_after,price_target_before,price_target_after
+10/24/2023,Meta Platforms Inc,META,,AARON KESSLER,Buy                          ,Buy                          ,365,365
+2/2/2023,Meta Platforms Inc,META,RAYMOND JAMES,AARON KESSLER,                             ,OUTPERFORM                   ,171,220
+3/15/2023,Meta Platforms Inc,META,RAYMOND JAMES,AARON KESSLER,Outperform                   ,Outperform                   ,238,238
+4/27/2023,Meta Platforms Inc,META,RAYMOND JAMES,AARON KESSLER,                             ,OUTPERFORM                   ,238,287
+8/29/2024,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,155,165
+6/18/2024,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,125,155
+11/21/2024,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,165,185
+5/23/2024,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,115,125
+3/22/2023,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,27.5,32
+2/16/2024,Nvidia Corp,NVDA,,AARON RAKERS,Overweight,Overweight,84,84
+8/15/2023,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,45,50
+3/19/2024,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,OVERWEIGHT,OVERWEIGHT,84,97
+2/23/2023,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,25,27.5
+5/25/2023,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,32,45
+8/24/2023,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,50,60
+11/22/2023,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,60,67.5
+5/14/2024,Nvidia Corp,NVDA,WELLS FARGO,AARON RAKERS,                             ,OVERWEIGHT                   ,97,115
+8/6/2024,Meta Platforms Inc,META,LOOP CAPITAL,ALAN GOULD,BUY,BUY,550,575
+5/1/2024,Meta Platforms Inc,META,LOOP CAPITAL,ALAN GOULD,BUY,BUY,555,550
+1/10/2025,Meta Platforms Inc,META,,ALEKSEY YEFREMOV,Overweight,Overweight,700,700
+8/26/2024,Nvidia Corp,NVDA,LOOP CAPITAL,ANANDA BARUAH,Buy,Buy,175,175
+6/25/2025,Nvidia Corp,NVDA,LOOP CAPITAL,ANANDA BARUAH,BUY,BUY,175,250
+9/28/2023,Meta Platforms Inc,META,JMP,ANDREW BOONE,Market Outperform,Market Outp,380,380
+9/26/2024,Meta Platforms Inc,META,JMP,ANDREW BOONE,OUTPERFORM,OUTPERFORM,550,635
+4/30/2025,Meta Platforms Inc,META,,ANDREW BOONE,Market Outperform,Market Outp,750,750
+3/28/2025,Meta Platforms Inc,META,,ANDREW BOONE,Market Outperform,Market Outp,750,750
+8/1/2024,Meta Platforms Inc,META,JMP,ANDREW BOONE,                             ,OUTPERFORM                   ,525,550
+10/31/2024,Meta Platforms Inc,META,JMP,ANDREW BOONE,                             ,OUTPERFORM                   ,635,660
+2/2/2024,Meta Platforms Inc,META,JMP,ANDREW BOONE,Market Outperform,Market Outp,500,500
+4/27/2023,Meta Platforms Inc,META,JMP,ANDREW BOONE,                             ,OUTPERFORM                   ,240,270
+3/16/2023,Meta Platforms Inc,META,JMP,ANDREW BOONE,Market Outperform            ,Market Outperform            ,240,240
+2/2/2023,Meta Platforms Inc,META,JMP,ANDREW BOONE,                             ,OUTPERFORM                   ,150,210
+1/19/2024,Meta Platforms Inc,META,JMP,ANDREW BOONE,                             ,OUTPERFORM                   ,380,410
+7/27/2023,Meta Platforms Inc,META,JMP,ANDREW BOONE,Market Outperform,Market Outp,380,380
+4/25/2024,Meta Platforms Inc,META,JMP,ANDREW BOONE,Market Outperform,Market Outp,525,525
+6/5/2023,Meta Platforms Inc,META,JMP,ANDREW BOONE,Market Outperform,Market Outp,300,300
+1/30/2025,Meta Platforms Inc,META,,ANDREW BOONE,Market Outperform,Market Outp,750,750
+8/1/2023,Meta Platforms Inc,META,JMP,ANDREW BOONE,Market Outperform,Market Outp,380,380
+7/6/2023,Meta Platforms Inc,META,CFRA,ANGELO ZINO,                             ,BUY                          ,300,350
+11/28/2023,Meta Platforms Inc,META,CFRA,ANGELO ZINO,                             ,BUY                          ,350,390
+1/19/2024,Meta Platforms Inc,META,CFRA,ANGELO ZINO,                             ,BUY                          ,390,430
+5/21/2024,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,100,110
+2/22/2024,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,70,84
+1/23/2024,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,60,70
+8/24/2023,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,50,60
+5/25/2023,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,35,41.5
+5/19/2023,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,HOLD                         ,30,35
+3/5/2024,Nvidia Corp,NVDA,CFRA,ANGELO ZINO,                             ,BUY                          ,84,100
+3/22/2023,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,24.5,30.5
+6/26/2024,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,126,150
+9/8/2025,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,200,200
+2/23/2023,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,21,24.5
+5/25/2023,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,36.3,42
+3/17/2023,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,                             ,24.5,30.5
+5/23/2024,Nvidia Corp,NVDA,CITI,ATIF MALIK,Buy,Buy,126,126
+4/11/2025,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,150,150
+11/21/2024,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,175,175
+10/18/2023,Nvidia Corp,NVDA,CITI,ATIF MALIK,                             ,BUY                          ,63,57.5
+3/20/2024,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,82,103
+5/29/2025,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,180,180
+8/24/2023,Nvidia Corp,NVDA,CITI,ATIF MALIK,BUY,BUY,52,63
+7/7/2025,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,190,190
+11/13/2024,Nvidia Corp,NVDA,,ATIF MALIK,Buy,Buy,170,170
+7/7/2023,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,Buy,Buy,333,333
+10/31/2024,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,Buy,Buy,811,811
+2/2/2023,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,BUY,NEUTRAL,104,220
+10/26/2023,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,                             ,BUY                          ,372,411
+3/15/2023,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,                             ,BUY                          ,220,257
+5/1/2025,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,BUY,BUY,990,918
+8/1/2024,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,Buy,Buy,643,643
+7/27/2023,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,                             ,BUY                          ,333,372
+1/30/2025,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,                             ,BUY                          ,811,846
+2/2/2024,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,                             ,BUY                          ,411,520
+4/27/2023,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,                             ,BUY                          ,257,263
+9/26/2024,Meta Platforms Inc,META,ROSENBLATT,BARTON CROCKETT,Buy,Buy,811,811
+4/27/2023,Meta Platforms Inc,META,,BENJAMIN BLACK,Buy,Buy,290,290
+4/25/2024,Meta Platforms Inc,META,,BENJAMIN BLACK,Buy,Buy,500,500
+2/2/2023,Meta Platforms Inc,META,DEUTSCHE BANK,BENJAMIN BLACK,                             ,BUY                          ,125,200
+7/12/2023,Meta Platforms Inc,META,,BENJAMIN BLACK,Buy,Buy,350,350
+5/23/2024,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,110,120
+1/17/2025,Nvidia Corp,NVDA,,BLAYNE CURTIS,Overweight,Overweight,175,175
+11/21/2024,Nvidia Corp,NVDA,,BLAYNE CURTIS,Overweight,Overweight,160,160
+5/25/2023,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,27.5,50
+2/16/2024,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,65,85
+7/20/2023,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,50,60
+8/24/2023,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,60,65
+2/23/2023,Nvidia Corp,NVDA,BARCLAYS,BLAYNE CURTIS,                             ,OVERWEIGHT                   ,25,27.5
+2/2/2023,Meta Platforms Inc,META,RBC,BRAD ERICKSON,                             ,OUTPERFORM                   ,160,225
+8/18/2023,Meta Platforms Inc,META,RBC,BRAD ERICKSON,Outperform,Outperform,400,400
+4/25/2024,Meta Platforms Inc,META,RBC,BRAD ERICKSON,OUTPERFORM,OUTPERFORM,600,570
+4/21/2023,Meta Platforms Inc,META,RBC,BRAD ERICKSON,Outperform                   ,Outperform                   ,225,225
+2/2/2024,Meta Platforms Inc,META,RBC,BRAD ERICKSON,Outperform,Outperform,565,565
+1/22/2024,Meta Platforms Inc,META,RBC,BRAD ERICKSON,Outperform,Outperform,400,400
+10/26/2023,Meta Platforms Inc,META,RBC,BRAD ERICKSON,Outperform,Outperform,400,400
+1/30/2025,Meta Platforms Inc,META,RBC,BRAD ERICKSON,OUTPERFORM,OUTPERFORM,700,800
+5/1/2025,Meta Platforms Inc,META,,BRAD ERICKSON,Outperform,Outperform,740,740
+8/1/2024,Meta Platforms Inc,META,,BRAD ERICKSON,Outperform,Outperform,570,570
+4/27/2023,Meta Platforms Inc,META,RBC,BRAD ERICKSON,                             ,OUTPERFORM                   ,225,285
+12/20/2024,Meta Platforms Inc,META,RBC,BRAD ERICKSON,OUTPERFORM,OUTPERFORM,630,700
+7/27/2023,Meta Platforms Inc,META,RBC,BRAD ERICKSON,                             ,OUTPERFORM                   ,330,400
+2/2/2023,Meta Platforms Inc,META,JEFFERIES,BRENT THILL,Buy                          ,Buy                          ,225,225
+4/5/2023,Meta Platforms Inc,META,JEFFERIES,BRENT THILL,                             ,BUY                          ,225,250
+8/1/2024,Meta Platforms Inc,META,JEFFERIES,BRENT THILL,Buy,Buy,600,600
+4/25/2024,Meta Platforms Inc,META,JEFFERIES,BRENT THILL,                             ,BUY                          ,585,540
+10/22/2024,Meta Platforms Inc,META,JEFFERIES,BRENT THILL,Buy,Buy,675,675
+4/4/2024,Meta Platforms Inc,META,JEFFERIES,BRENT THILL,BUY,BUY,550,585
+7/19/2023,Meta Platforms Inc,META,JEFFERIES,BRENT THILL,                             ,BUY                          ,280,360
+7/21/2025,Meta Platforms Inc,META,,BRIAN NOWAK,Overweight,Overweight,750,750
+1/18/2023,Meta Platforms Inc,META,MORGAN STANLEY,BRIAN NOWAK,                             ,                             ,100,130
+8/1/2024,Meta Platforms Inc,META,MORGAN STANLEY,BRIAN NOWAK,                             ,OVERWEIGHT                   ,550,575
+4/17/2025,Meta Platforms Inc,META,,BRIAN NOWAK,Overweight,Overweight,615,615
+9/28/2023,Meta Platforms Inc,META,MORGAN STANLEY,BRIAN NOWAK,Overweight,Overweight,375,375
+5/1/2025,Meta Platforms Inc,META,,BRIAN NOWAK,Overweight,Overweight,650,650
+4/27/2023,Meta Platforms Inc,META,MORGAN STANLEY,BRIAN NOWAK,                             ,OVERWEIGHT                   ,250,300
+2/2/2023,Meta Platforms Inc,META,,BRIAN NOWAK,Equal Weight                 ,Equal Weight                 ,190,190
+1/13/2025,Meta Platforms Inc,META,,BRIAN NOWAK,Overweight,Overweight,660,660
+7/13/2023,Meta Platforms Inc,META,MORGAN STANLEY,BRIAN NOWAK,                             ,OVERWEIGHT                   ,300,350
+3/21/2023,Meta Platforms Inc,META,,BRIAN NOWAK,Equal Weight,Overweight,250,250
+7/27/2023,Meta Platforms Inc,META,MORGAN STANLEY,BRIAN NOWAK,                             ,OVERWEIGHT                   ,350,375
+6/12/2024,Meta Platforms Inc,META,,BRIAN PITZ,Market Perform,Market Perform,450,450
+10/31/2024,Meta Platforms Inc,META,,BRIAN PITZ,Market Perform,Market Perform,530,530
+1/9/2024,Meta Platforms Inc,META,,BRIAN PITZ,Market Perform               ,Market Perform               ,397,397
+1/30/2025,Meta Platforms Inc,META,,BRIAN PITZ,Market Perform,Market Perform,610,610
+10/9/2024,Meta Platforms Inc,META,,BRIAN PITZ,Market Perform,Market Perform,525,525
+11/12/2024,Meta Platforms Inc,META,MONNESS CRESPI & HARDT,BRIAN WHITE,                             ,BUY                          ,620,650
+2/2/2023,Meta Platforms Inc,META,MONNESS CRESPI & HARDT,BRIAN WHITE,BUY,BUY,150,240
+2/2/2024,Meta Platforms Inc,META,MONNESS CRESPI & HARDT,BRIAN WHITE,BUY,BUY,370,540
+10/8/2024,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,175,175
+1/23/2024,Nvidia Corp,NVDA,,C J MUSE,Overweight                   ,Overweight                   ,77.5,77.5
+3/11/2024,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,120,120
+11/21/2024,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,175,175
+1/27/2025,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,200,200
+8/29/2024,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,175,175
+2/20/2024,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,77.5,77.5
+6/26/2024,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,175,175
+5/23/2024,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,140,140
+8/18/2025,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,240,240
+2/12/2024,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,77.5,77.5
+1/29/2024,Nvidia Corp,NVDA,,C J MUSE,Overweight,Overweight,77.5,77.5
+2/22/2024,Nvidia Corp,NVDA,WOLFE,CHRIS CASO,OUTPERFORM,OUTPERFORM,63,90
+8/16/2023,Nvidia Corp,NVDA,,CHRIS CASO,Strong Buy,Strong Buy,50,50
+8/24/2023,Nvidia Corp,NVDA,WOLFE,CHRIS CASO,                             ,OUTPERFORM                   ,57,63
+5/25/2023,Nvidia Corp,NVDA,,CHRIS CASO,Strong Buy,Strong Buy,45,45
+11/21/2024,Nvidia Corp,NVDA,WOLFE,CHRIS CASO,OUTPERFORM,OUTPERFORM,150,180
+5/23/2024,Nvidia Corp,NVDA,WOLFE,CHRIS CASO,Outperform,Outperform,125,125
+4/4/2024,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive,Positive,105,105
+3/19/2024,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,POSITIVE,POSITIVE,85,105
+3/9/2023,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive                     ,Positive                     ,26.5,26.5
+5/23/2024,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive,Positive,120,120
+6/10/2024,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive,Positive,145,145
+7/20/2023,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,45,57.5
+3/30/2023,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,26.5,31
+5/25/2023,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,35,45
+2/14/2024,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,62.5,85
+8/24/2023,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,57.5,60
+11/22/2023,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,Positive,Positive,62.5,62.5
+11/14/2024,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,160,180
+2/16/2023,Nvidia Corp,NVDA,SUSQUEHANNA,CHRISTOPHER ROLLAND,                             ,POSITIVE                     ,18.5,26.5
+2/27/2025,Nvidia Corp,NVDA,,CODY ACREE,Buy,Buy,190,190
+8/24/2023,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,                             ,BUY                          ,47.5,62.5
+5/25/2023,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,                             ,BUY                          ,25,47.5
+2/22/2024,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,                             ,BUY                          ,62.5,100
+1/7/2025,Nvidia Corp,NVDA,,CODY ACREE,Buy,Buy,190,190
+3/20/2025,Nvidia Corp,NVDA,,CODY ACREE,Buy,Buy,190,190
+11/21/2024,Nvidia Corp,NVDA,,CODY ACREE,Buy,Buy,190,190
+8/29/2024,Nvidia Corp,NVDA,,CODY ACREE,Buy,Buy,170,170
+7/12/2024,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,BUY,BUY,135,170
+5/23/2024,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,Buy,Buy,135,135
+11/22/2023,Nvidia Corp,NVDA,BENCHMARK,CODY ACREE,Buy,Buy,62.5,62.5
+7/27/2023,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,330,355
+1/30/2025,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,680,750
+2/2/2024,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,385,525
+8/1/2024,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,500,530
+2/2/2023,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,145,205
+4/9/2025,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,OUTPERFORM,OUTPERFORM,750,625
+5/2/2025,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,625,635
+9/26/2024,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,OUTPERFORM,IN LINE,530,605
+4/27/2023,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,220,260
+10/31/2024,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,605,630
+10/26/2023,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,355,345
+7/21/2023,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,260,330
+12/21/2023,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,345,385
+3/15/2023,Meta Platforms Inc,META,BAIRD,COLIN SEBASTIAN,                             ,OUTPERFORM                   ,205,220
+7/31/2025,Meta Platforms Inc,META,,DEEPAK MATHIVANAN,Overweight,Overweight,920,920
+6/11/2025,Meta Platforms Inc,META,,DEEPAK MATHIVANAN,Overweight,Overweight,676,676
+9/5/2024,Meta Platforms Inc,META,,DEEPAK MATHIVANAN,Overweight                   ,Overweight                   ,660,660
+5/1/2025,Meta Platforms Inc,META,,DEEPAK MATHIVANAN,Overweight,Overweight,676,676
+7/16/2025,Meta Platforms Inc,META,,DEEPAK MATHIVANAN,Overweight,Overweight,828,828
+3/15/2023,Meta Platforms Inc,META,WOLFE,DEEPAK MATHIVANAN,                             ,OUTPERFORM                   ,220,230
+6/18/2025,Meta Platforms Inc,META,,DEEPAK MATHIVANAN,Overweight,Overweight,807,807
+4/2/2025,Meta Platforms Inc,META,CANTOR FITZGERALD,DEEPAK MATHIVANAN,Overweight,Overweight,790,790
+1/22/2025,Meta Platforms Inc,META,CANTOR FITZGERALD,DEEPAK MATHIVANAN,Overweight,Overweight,720,720
+10/16/2024,Meta Platforms Inc,META,CANTOR FITZGERALD,DEEPAK MATHIVANAN,Overweight,Overweight,670,670
+9/30/2024,Meta Platforms Inc,META,,DEEPAK MATHIVANAN,Overweight,Overweight,660,660
+9/23/2024,Meta Platforms Inc,META,,DEEPAK MATHIVANAN,Overweight,Overweight,660,660
+1/29/2025,Meta Platforms Inc,META,CANTOR FITZGERALD,DEEPAK MATHIVANAN,OVERWEIGHT,OVERWEIGHT,720,790
+4/16/2025,Meta Platforms Inc,META,CANTOR FITZGERALD,DEEPAK MATHIVANAN,OVERWEIGHT,OVERWEIGHT,790,624
+10/9/2024,Meta Platforms Inc,META,CANTOR FITZGERALD,DEEPAK MATHIVANAN,OVERWEIGHT,OVERWEIGHT,660,670
+4/25/2024,Meta Platforms Inc,META,WOLFE,DEEPAK MATHIVANAN,OUTPERFORM,OUTPERFORM,530,500
+7/27/2023,Meta Platforms Inc,META,WOLFE,DEEPAK MATHIVANAN,                             ,OUTPERFORM                   ,330,390
+10/26/2023,Meta Platforms Inc,META,WOLFE,DEEPAK MATHIVANAN,                             ,OUTPERFORM                   ,370,380
+4/27/2023,Meta Platforms Inc,META,WOLFE,DEEPAK MATHIVANAN,                             ,OUTPERFORM                   ,260,300
+4/19/2023,Meta Platforms Inc,META,WOLFE,DEEPAK MATHIVANAN,                             ,OUTPERFORM                   ,230,260
+2/2/2023,Meta Platforms Inc,META,WOLFE,DEEPAK MATHIVANAN,                             ,OUTPERFORM                   ,150,220
+10/4/2023,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,                             ,OVERWEIGHT                   ,425,400
+10/26/2023,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,                             ,OVERWEIGHT                   ,400,420
+5/1/2025,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,OVERWEIGHT,OVERWEIGHT,610,675
+9/28/2023,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,Overweight,Overweight,425,425
+3/24/2023,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,                             ,OVERWEIGHT                   ,225,270
+12/18/2024,Meta Platforms Inc,META,,DOUG ANMUTH,Overweight,Overweight,725,725
+10/31/2024,Meta Platforms Inc,META,,DOUG ANMUTH,Overweight,Overweight,660,660
+4/8/2025,Meta Platforms Inc,META,,DOUG ANMUTH,Overweight,Overweight,610,610
+2/2/2024,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,Overweight,Overweight,535,535
+7/27/2023,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,                             ,OVERWEIGHT                   ,305,425
+6/4/2025,Meta Platforms Inc,META,,DOUG ANMUTH,Overweight,Overweight,735,735
+9/26/2024,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,OVERWEIGHT,OVERWEIGHT,610,640
+8/1/2024,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,OVERWEIGHT,OVERWEIGHT,480,610
+4/25/2024,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,OVERWEIGHT,OVERWEIGHT,535,480
+4/27/2023,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,                             ,OVERWEIGHT                   ,270,305
+2/2/2023,Meta Platforms Inc,META,JPMORGAN,DOUG ANMUTH,                             ,OVERWEIGHT                   ,150,225
+7/27/2023,Meta Platforms Inc,META,GOLDMAN SACHS,ERIC SHERIDAN,                             ,BUY                          ,335,384
+1/30/2025,Meta Platforms Inc,META,GOLDMAN SACHS,ERIC SHERIDAN,                             ,BUY                          ,688,765
+4/14/2025,Meta Platforms Inc,META,GOLDMAN SACHS,ERIC SHERIDAN,Buy,Buy,685,685
+1/14/2025,Meta Platforms Inc,META,GOLDMAN SACHS,ERIC SHERIDAN,BUY,BUY,630,668
+10/14/2024,Meta Platforms Inc,META,GOLDMAN SACHS,ERIC SHERIDAN,Buy,Buy,636,636
+4/27/2023,Meta Platforms Inc,META,GOLDMAN SACHS,ERIC SHERIDAN,Buy,Buy,300,300
+8/1/2024,Meta Platforms Inc,META,GOLDMAN SACHS,ERIC SHERIDAN,                             ,BUY                          ,522,555
+4/13/2023,Meta Platforms Inc,META,GOLDMAN SACHS,ERIC SHERIDAN,                             ,BUY                          ,215,245
+5/1/2025,Meta Platforms Inc,META,GOLDMAN SACHS,ERIC SHERIDAN,                             ,BUY                          ,685,690
+4/14/2025,Meta Platforms Inc,META,,GIL LURIA,Buy,Buy,650,650
+10/31/2024,Meta Platforms Inc,META,D.A. DAVIDSON,GIL LURIA,BUY,BUY,600,700
+1/30/2025,Meta Platforms Inc,META,,GIL LURIA,Buy,Buy,800,800
+9/10/2024,Meta Platforms Inc,META,,GIL LURIA,Buy                          ,Buy                          ,600,600
+5/29/2025,Nvidia Corp,NVDA,,GIL LURIA,Neutral,Neutral,135,135
+2/27/2025,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,Neutral,Neutral,135,135
+2/22/2024,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,NEUTRAL,NEUTRAL,41,62
+11/21/2024,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,NEUTRAL,NEUTRAL,90,135
+3/20/2025,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,NEUTRAL,NEUTRAL,135,125
+4/14/2025,Nvidia Corp,NVDA,,GIL LURIA,Neutral,Neutral,120,120
+9/11/2025,Nvidia Corp,NVDA,,GIL LURIA,Neutral,Buy,210,210
+8/29/2024,Nvidia Corp,NVDA,D.A. DAVIDSON,GIL LURIA,Neutral,Neutral,90,90
+1/27/2025,Meta Platforms Inc,META,,GREG MILLER,Market Outperform,Market Outp,750,750
+8/24/2023,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Overweight,Overweight,60,60
+2/22/2024,Nvidia Corp,NVDA,,HARLAN SUR,Overweight,Overweight,85,85
+11/22/2023,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,                             ,OVERWEIGHT                   ,60,65
+11/21/2024,Nvidia Corp,NVDA,,HARLAN SUR,Overweight,Overweight,170,170
+5/23/2024,Nvidia Corp,NVDA,,HARLAN SUR,Overweight,Overweight,115,115
+5/25/2023,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Overweight,Overweight,50,50
+2/23/2023,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,Overweight                   ,Overweight                   ,25,25
+8/29/2024,Nvidia Corp,NVDA,JPMORGAN,HARLAN SUR,OVERWEIGHT,OVERWEIGHT,115,155
+8/29/2024,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,Overweight,Overweight,140,140
+3/20/2024,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,OVERWEIGHT,OVERWEIGHT,85,105
+8/16/2023,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,45,50
+3/29/2023,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,27.5,30
+6/29/2023,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,                             ,44,45
+2/22/2023,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,20,22.5
+5/23/2024,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,105,120
+11/11/2024,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,Overweight,Overweight,175,175
+5/29/2025,Nvidia Corp,NVDA,,HARSH KUMAR,Overweight,Overweight,180,180
+5/25/2023,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,30,44
+4/16/2025,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,OVERWEIGHT,OVERWEIGHT,175,150
+4/11/2023,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,30,32
+8/24/2023,Nvidia Corp,NVDA,PIPER SANDLER,HARSH KUMAR,                             ,OVERWEIGHT                   ,50,62
+10/27/2023,Meta Platforms Inc,META,DZ BANK,INGO WERMANN,                             ,BUY                          ,370,375
+2/6/2024,Meta Platforms Inc,META,DZ BANK,INGO WERMANN,                             ,BUY                          ,375,550
+2/16/2023,Nvidia Corp,NVDA,DZ BANK,INGO WERMANN,Buy,Sell,19.5,19.5
+11/22/2023,Meta Platforms Inc,META,TIGRESS PARTNERS,IVAN FEINSETH,Strong Buy,Strong Buy,435,435
+7/6/2023,Meta Platforms Inc,META,TIGRESS PARTNERS,IVAN FEINSETH,Strong Buy,Strong Buy,380,380
+2/10/2023,Meta Platforms Inc,META,TIGRESS PARTNERS,IVAN FEINSETH,                             ,STRONG BUY                   ,260,285
+2/9/2024,Meta Platforms Inc,META,TIGRESS PARTNERS,IVAN FEINSETH,                             ,STRONG BUY                   ,435,575
+8/16/2024,Meta Platforms Inc,META,,IVAN FEINSETH,Strong Buy,Strong Buy,645,645
+6/18/2024,Nvidia Corp,NVDA,,IVAN FEINSETH,Buy,Buy,170,170
+2/29/2024,Nvidia Corp,NVDA,,IVAN FEINSETH,Buy,Buy,98.5,98.5
+12/8/2022,Nvidia Corp,NVDA,TIGRESS PARTNERS,IVAN FEINSETH,                             ,BUY                          ,31,25
+7/7/2023,Nvidia Corp,NVDA,TIGRESS PARTNERS,IVAN FEINSETH,                             ,BUY                          ,32,56
+3/18/2025,Meta Platforms Inc,META,,JASON CELINO,Overweight,Overweight,710,710
+4/27/2023,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,                             ,OUTPERFORM                   ,260,285
+2/2/2023,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,                             ,OUTPERFORM                   ,145,220
+7/27/2023,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,                             ,OUTPERFORM                   ,350,385
+4/25/2024,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,OUTPERFORM,OUTPERFORM,585,500
+5/1/2025,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,Outperform,Outperform,665,665
+7/19/2024,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,                             ,OUTPERFORM                   ,500,525
+6/5/2023,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,Outperform,Outperform,350,350
+9/28/2023,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,Outperform,Outperform,385,385
+1/30/2025,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,                             ,OUTPERFORM                   ,650,800
+10/31/2024,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,                             ,OUTPERFORM                   ,615,650
+8/1/2024,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,                             ,OUTPERFORM                   ,525,615
+2/2/2024,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,                             ,OUTPERFORM                   ,385,525
+3/14/2023,Meta Platforms Inc,META,OPPENHEIMER,JASON HELFSTEIN,                             ,OUTPERFORM                   ,235,260
+10/1/2024,Meta Platforms Inc,META,,JEFFREY WLODARCZAK,Buy                          ,Buy                          ,780,780
+1/30/2025,Meta Platforms Inc,META,PIVOTAL RESEARCH,JEFFREY WLODARCZAK,                             ,BUY                          ,800,875
+2/22/2024,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,60,85
+6/11/2024,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,110,150
+5/23/2024,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,95,110
+8/24/2023,Nvidia Corp,NVDA,ARGUS,JIM KELLEHER,                             ,BUY                          ,45,60
+1/9/2024,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,                             ,OUTPERFORM                   ,375,415
+7/10/2024,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,BUY,BUY,530,600
+2/2/2023,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,                             ,MARKET PERFORM               ,135,175
+3/17/2023,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,                             ,OUTPERFORM                   ,175,190
+5/1/2025,Meta Platforms Inc,META,,JOHN BLACKLEDGE,Buy,Buy,700,700
+10/26/2023,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,                             ,OUTPERFORM                   ,365,375
+4/25/2024,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,                             ,BUY                          ,590,530
+7/13/2023,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,Market Perform,Outperform,345,345
+4/14/2023,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,Outperform                   ,Outperform                   ,195,195
+1/30/2025,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,BUY,BUY,690,785
+10/17/2024,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,BUY,BUY,600,675
+2/2/2024,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,                             ,OUTPERFORM                   ,415,500
+7/27/2023,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,                             ,OUTPERFORM                   ,345,365
+4/27/2023,Meta Platforms Inc,META,TD COWEN,JOHN BLACKLEDGE,                             ,MARKET PERFORM               ,195,220
+8/20/2025,Nvidia Corp,NVDA,,JOHN VINH,Overweight,Overweight,215,215
+10/20/2023,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,75,65
+2/20/2025,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,OVERWEIGHT,OVERWEIGHT,180,190
+7/9/2024,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,130,180
+2/17/2023,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,Overweight                   ,Overweight                   ,28,28
+10/3/2023,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,67,75
+7/11/2023,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,Overweight,Overweight,55,55
+5/23/2024,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,Overweight,Overweight,130,130
+2/22/2024,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,OVERWEIGHT,OVERWEIGHT,74,110
+4/11/2023,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,28,32
+1/11/2023,Nvidia Corp,NVDA,KEYBANK,JOHN VINH,                             ,OVERWEIGHT                   ,23,22
+8/1/2023,Meta Platforms Inc,META,ARGUS,JOSEPH BONNER,                             ,BUY                          ,353,375
+8/2/2024,Meta Platforms Inc,META,ARGUS,JOSEPH BONNER,                             ,BUY                          ,550,600
+3/16/2023,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,25.5,30.4
+2/27/2025,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,152,162
+10/18/2023,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,63,60
+2/22/2024,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,OVERWEIGHT,OVERWEIGHT,75,79.5
+1/28/2025,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Overweight,Overweight,152,152
+5/29/2025,Nvidia Corp,NVDA,,JOSEPH MOORE,Overweight,Overweight,170,170
+4/10/2024,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,79.5,100
+11/21/2024,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,OVERWEIGHT,OVERWEIGHT,160,168
+2/21/2023,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Equal Weight                 ,Equal Weight                 ,24.6,24.6
+8/24/2023,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,50,63
+5/25/2023,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,30.4,45
+7/30/2025,Nvidia Corp,NVDA,,JOSEPH MOORE,Overweight,Overweight,200,200
+4/25/2025,Nvidia Corp,NVDA,,JOSEPH MOORE,Overweight,Overweight,160,160
+11/11/2024,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Overweight,Overweight,160,160
+10/10/2024,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,Overweight,Overweight,150,150
+2/7/2024,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,60.3,75
+8/29/2024,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,144,150
+12/20/2024,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,168,166
+11/22/2023,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,60,60.3
+6/16/2023,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,                             ,45,50
+5/23/2024,Nvidia Corp,NVDA,MORGAN STANLEY,JOSEPH MOORE,                             ,OVERWEIGHT                   ,100,116
+11/25/2024,Meta Platforms Inc,META,,JOSH BECK,Strong Buy,Strong Buy,675,675
+10/10/2024,Meta Platforms Inc,META,,JOSH BECK,Strong Buy,Strong Buy,650,650
+1/21/2025,Meta Platforms Inc,META,,JOSH BECK,Strong Buy,Strong Buy,725,725
+6/5/2024,Meta Platforms Inc,META,,JOSH BECK,Strong Buy,Strong Buy,550,550
+2/2/2024,Meta Platforms Inc,META,,JOSH BECK,Strong Buy,Strong Buy,550,550
+5/1/2025,Meta Platforms Inc,META,RAYMOND JAMES,JOSH BECK,                             ,STRONG BUY                   ,800,750
+4/25/2024,Meta Platforms Inc,META,,JOSH BECK,Strong Buy,Strong Buy,525,525
+1/24/2024,Meta Platforms Inc,META,,JOSH BECK,Strong Buy,Strong Buy,450,450
+1/30/2025,Meta Platforms Inc,META,RAYMOND JAMES,JOSH BECK,                             ,STRONG BUY                   ,725,800
+4/9/2025,Nvidia Corp,NVDA,,JOSHUA BUCHALTER,Buy,Buy,140,140
+11/20/2024,Nvidia Corp,NVDA,TD COWEN,JOSHUA BUCHALTER,BUY,BUY,165,175
+1/30/2024,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,                             ,OVERWEIGHT                   ,380,465
+7/5/2023,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,                             ,OVERWEIGHT                   ,280,335
+7/17/2025,Meta Platforms Inc,META,,JUSTIN PATTERSON,Overweight,Overweight,800,800
+10/26/2023,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,                             ,OVERWEIGHT                   ,356,380
+5/1/2025,Meta Platforms Inc,META,,JUSTIN PATTERSON,Overweight,Overweight,655,655
+8/1/2024,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,Overweight,Overweight,560,560
+6/20/2024,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,Overweight,Overweight,540,540
+9/28/2023,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,Overweight,Overweight,356,356
+4/27/2023,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,Overweight,Overweight,280,280
+1/28/2025,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,OVERWEIGHT,OVERWEIGHT,700,750
+1/10/2025,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,                             ,OVERWEIGHT                   ,655,700
+10/9/2024,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,OVERWEIGHT,OVERWEIGHT,560,655
+3/18/2025,Meta Platforms Inc,META,KEYBANK,JUSTIN PATTERSON,                             ,OVERWEIGHT                   ,750,710
+3/14/2023,Meta Platforms Inc,META,BAML,JUSTIN POST,                             ,BUY                          ,220,230
+2/2/2023,Meta Platforms Inc,META,BAML,JUSTIN POST,BUY,NEUTRAL,160,220
+6/12/2025,Meta Platforms Inc,META,,JUSTIN POST,Buy,Buy,765,765
+7/15/2025,Meta Platforms Inc,META,,JUSTIN POST,Buy,Buy,775,775
+4/9/2025,Meta Platforms Inc,META,,JUSTIN POST,Buy,Buy,640,640
+1/30/2025,Meta Platforms Inc,META,,JUSTIN POST,Buy,Buy,765,765
+10/31/2024,Meta Platforms Inc,META,BAML,JUSTIN POST,Buy,Buy,660,660
+9/26/2024,Meta Platforms Inc,META,BAML,JUSTIN POST,Buy,Buy,630,630
+8/1/2024,Meta Platforms Inc,META,BAML,JUSTIN POST,Buy,Buy,563,563
+1/23/2025,Meta Platforms Inc,META,BAML,JUSTIN POST,                             ,BUY                          ,660,710
+4/2/2024,Meta Platforms Inc,META,BAML,JUSTIN POST,                             ,BUY                          ,510,550
+2/2/2024,Meta Platforms Inc,META,BAML,JUSTIN POST,                             ,BUY                          ,425,510
+1/25/2024,Meta Platforms Inc,META,BAML,JUSTIN POST,                             ,BUY                          ,405,425
+10/26/2023,Meta Platforms Inc,META,BAML,JUSTIN POST,                             ,BUY                          ,375,384
+7/27/2023,Meta Platforms Inc,META,BAML,JUSTIN POST,                             ,BUY                          ,350,375
+4/27/2023,Meta Platforms Inc,META,BAML,JUSTIN POST,                             ,BUY                          ,250,300
+4/19/2023,Meta Platforms Inc,META,BAML,JUSTIN POST,                             ,BUY                          ,230,250
+3/19/2025,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy,Buy,220,220
+5/29/2025,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy,Buy,200,200
+4/16/2025,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy,Buy,200,200
+2/27/2025,Nvidia Corp,NVDA,,KEVIN CASSIDY,Buy,Buy,220,220
+2/2/2023,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,                             ,BUY                          ,158,235
+6/23/2023,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,                             ,BUY                          ,300,335
+4/6/2023,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,                             ,BUY                          ,235,285
+5/1/2025,Meta Platforms Inc,META,,LLOYD WALMSLEY,Buy,Buy,683,683
+4/11/2025,Meta Platforms Inc,META,,LLOYD WALMSLEY,Buy,Buy,650,650
+8/1/2024,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,Buy,Buy,635,635
+2/2/2024,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,Buy,Buy,530,530
+1/10/2025,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,                             ,BUY                          ,719,736
+10/31/2024,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,                             ,BUY                          ,690,719
+4/16/2024,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,                             ,BUY                          ,530,610
+4/25/2024,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,BUY,BUY,610,575
+10/26/2023,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,                             ,BUY                          ,415,425
+10/17/2023,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,                             ,BUY                          ,400,415
+7/27/2023,Meta Platforms Inc,META,UBS,LLOYD WALMSLEY,                             ,BUY                          ,335,400
+6/30/2023,Nvidia Corp,NVDA,DAIWA,LOUIS MISCIOSCIA,                             ,                             ,40.8,47.5
+7/27/2023,Meta Platforms Inc,META,CANACCORD,MARIA RIPPS,                             ,BUY                          ,360,375
+2/2/2023,Meta Platforms Inc,META,CANACCORD,MARIA RIPPS,                             ,BUY                          ,170,220
+12/19/2024,Meta Platforms Inc,META,CANACCORD,MARIA RIPPS,                             ,BUY                          ,700,730
+4/17/2024,Meta Platforms Inc,META,CANACCORD,MARIA RIPPS,                             ,BUY                          ,580,610
+4/25/2024,Meta Platforms Inc,META,CANACCORD,MARIA RIPPS,                             ,BUY                          ,610,575
+1/23/2024,Meta Platforms Inc,META,CANACCORD,MARIA RIPPS,                             ,BUY                          ,430,450
+11/14/2023,Meta Platforms Inc,META,,MARK KELLEY,Buy,Buy,405,405
+5/1/2025,Meta Platforms Inc,META,STIFEL,MARK KELLEY,                             ,BUY                          ,628,655
+8/1/2024,Meta Platforms Inc,META,STIFEL,MARK KELLEY,BUY,BUY,550,590
+4/16/2024,Meta Platforms Inc,META,STIFEL,MARK KELLEY,                             ,BUY                          ,527,588
+4/23/2025,Meta Platforms Inc,META,STIFEL,MARK KELLEY,                             ,BUY                          ,740,628
+4/25/2024,Meta Platforms Inc,META,STIFEL,MARK KELLEY,BUY,BUY,588,550
+7/21/2023,Meta Platforms Inc,META,STIFEL,MARK KELLEY,                             ,BUY                          ,280,336
+4/27/2023,Meta Platforms Inc,META,STIFEL,MARK KELLEY,                             ,BUY                          ,230,280
+3/15/2023,Meta Platforms Inc,META,STIFEL,MARK KELLEY,                             ,BUY                          ,230,210
+7/22/2025,Meta Platforms Inc,META,,MARK KELLEY,Buy,Buy,845,845
+2/2/2024,Meta Platforms Inc,META,,MARK KELLEY,Buy,Buy,527,527
+2/2/2023,Meta Platforms Inc,META,STIFEL,MARK KELLEY,                             ,BUY                          ,180,210
+2/23/2023,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,TOP PICK,27.5,30
+2/22/2024,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,61,78
+11/21/2024,Nvidia Corp,NVDA,,MARK LIPACIS,Outperform,Outperform,190,190
+8/22/2025,Nvidia Corp,NVDA,,MARK LIPACIS,Outperform,Outperform,214,214
+8/23/2024,Nvidia Corp,NVDA,,MARK LIPACIS,Outperform,Outperform,150,150
+6/11/2024,Nvidia Corp,NVDA,,MARK LIPACIS,Outperform,Outperform,145,145
+5/23/2024,Nvidia Corp,NVDA,,MARK LIPACIS,Outperform,Outperform,131,131
+8/24/2023,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,50,61
+5/25/2023,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,                             ,BUY                          ,30,47.2
+2/10/2023,Nvidia Corp,NVDA,JEFFERIES,MARK LIPACIS,BUY,BUY,22.5,27.5
+10/26/2023,Meta Platforms Inc,META,EVERCORE,MARK MAHANEY,                             ,OUTPERFORM                   ,435,425
+2/2/2023,Meta Platforms Inc,META,EVERCORE,MARK MAHANEY,                             ,OUTPERFORM                   ,170,275
+3/14/2023,Meta Platforms Inc,META,EVERCORE,MARK MAHANEY,OUTPERFORM,OUTPERFORM,275,305
+1/30/2025,Meta Platforms Inc,META,EVERCORE,MARK MAHANEY,OUTPERFORM,OUTPERFORM,700,725
+7/27/2023,Meta Platforms Inc,META,EVERCORE,MARK MAHANEY,                             ,OUTPERFORM                   ,350,435
+4/27/2023,Meta Platforms Inc,META,EVERCORE,MARK MAHANEY,                             ,OUTPERFORM                   ,305,350
+8/1/2024,Meta Platforms Inc,META,EVERCORE,MARK MAHANEY,OUTPERFORM,OUTPERFORM,550,600
+2/2/2024,Meta Platforms Inc,META,BERNSTEIN,MARK SHMULIK,                             ,OUTPERFORM                   ,435,535
+2/2/2023,Meta Platforms Inc,META,BERNSTEIN,MARK SHMULIK,                             ,OUTPERFORM                   ,170,210
+1/18/2024,Meta Platforms Inc,META,BERNSTEIN,MARK SHMULIK,                             ,OUTPERFORM                   ,375,435
+10/25/2024,Meta Platforms Inc,META,,MARK SHMULIK,Outperform,Outperform,675,675
+4/20/2023,Meta Platforms Inc,META,BERNSTEIN,MARK SHMULIK,                             ,OUTPERFORM                   ,225,250
+4/25/2024,Meta Platforms Inc,META,BERNSTEIN,MARK SHMULIK,Outperform,Outperform,565,565
+4/18/2024,Meta Platforms Inc,META,BERNSTEIN,MARK SHMULIK,Outperform,Outperform,590,590
+4/27/2023,Meta Platforms Inc,META,BERNSTEIN,MARK SHMULIK,                             ,OUTPERFORM                   ,250,275
+4/23/2025,Meta Platforms Inc,META,BENCHMARK,MARK ZGUTOWICZ,BUY,BUY,820,640
+7/23/2025,Meta Platforms Inc,META,,MARK ZGUTOWICZ,Buy,Buy,800,800
+1/30/2025,Meta Platforms Inc,META,,MARK ZGUTOWICZ,Hold,Buy,820,820
+2/16/2024,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,OUTPERFORM,OUTPERFORM,60,80
+11/14/2024,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,138,160
+5/22/2025,Nvidia Corp,NVDA,,MATT BRYSON,Outperform,Outperform,175,175
+8/29/2024,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Outperform,Outperform,138,138
+5/25/2023,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,NEUTRAL,OUTPERFORM,29,49
+3/16/2023,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Neutral                      ,Neutral                      ,21.6,21.6
+11/21/2024,Nvidia Corp,NVDA,,MATT BRYSON,Outperform,Outperform,175,175
+4/16/2025,Nvidia Corp,NVDA,,MATT BRYSON,Outperform,Outperform,175,175
+8/23/2024,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Outperform,Outperform,138,138
+5/23/2024,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Outperform,Outperform,120,120
+2/22/2024,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,Outperform,Outperform,85,85
+3/14/2024,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,85,100
+8/24/2023,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,OUTPERFORM                   ,49,60
+2/23/2023,Nvidia Corp,NVDA,WEDBUSH,MATT BRYSON,                             ,NEUTRAL                      ,17.5,21.6
+3/19/2025,Nvidia Corp,NVDA,,MATTHEW PRISCO,Overweight,Overweight,200,200
+2/27/2025,Nvidia Corp,NVDA,,MATTHEW PRISCO,Overweight,Overweight,200,200
+4/15/2025,Meta Platforms Inc,META,,META MARSHALL,Outperform,Outperform,680,680
+1/23/2025,Meta Platforms Inc,META,,META MARSHALL,Outperform,Outperform,700,700
+2/2/2023,Meta Platforms Inc,META,GUGGENHEIM,MICHAEL MORRIS,                             ,BUY                          ,130,210
+2/2/2024,Meta Platforms Inc,META,GUGGENHEIM,MICHAEL MORRIS,                             ,BUY                          ,380,520
+9/27/2023,Meta Platforms Inc,META,GUGGENHEIM,MICHAEL MORRIS,                             ,BUY                          ,375,380
+7/27/2023,Meta Platforms Inc,META,GUGGENHEIM,MICHAEL MORRIS,Buy,Buy,375,375
+4/27/2023,Meta Platforms Inc,META,GUGGENHEIM,MICHAEL MORRIS,Buy,Buy,320,320
+10/7/2024,Meta Platforms Inc,META,,MICHAEL MORRIS,Buy,Buy,665,665
+8/1/2024,Meta Platforms Inc,META,,MICHAEL MORRIS,Buy,Buy,600,600
+4/25/2024,Meta Platforms Inc,META,,MICHAEL MORRIS,Buy,Buy,500,500
+5/1/2025,Meta Platforms Inc,META,GUGGENHEIM,MICHAEL MORRIS,BUY,BUY,675,725
+4/8/2025,Meta Platforms Inc,META,GUGGENHEIM,MICHAEL MORRIS,BUY,BUY,750,675
+1/30/2025,Meta Platforms Inc,META,LEERINK,MICHAEL NATHANSON,                             ,BUY                          ,675,710
+7/27/2023,Meta Platforms Inc,META,LEERINK,MICHAEL NATHANSON,                             ,OUTPERFORM                   ,295,370
+4/21/2025,Meta Platforms Inc,META,,NAT SCHINDLER,Sector Perform,Sector Perform,525,525
+10/31/2024,Meta Platforms Inc,META,,NAT SCHINDLER,Sector Perform,Sector Perform,583,583
+1/30/2025,Meta Platforms Inc,META,SCOTIABANK,NAT SCHINDLER,                             ,SECTOR PERFORM               ,583,627
+10/11/2024,Meta Platforms Inc,META,,NAT SCHINDLER,Sector Perform               ,Sector Perform               ,585,585
+7/22/2025,Meta Platforms Inc,META,,NAT SCHINDLER,Sector Perform,Sector Perform,675,675
+7/27/2023,Meta Platforms Inc,META,,NICOLAS COTE-COLISSON,Reduce,Hold,285,285
+5/25/2023,Nvidia Corp,NVDA,,PATRICK SCHOLES,Outperform,Outperform,42,42
+3/22/2023,Nvidia Corp,NVDA,,PATRICK SCHOLES,Outperform                   ,Outperform                   ,30,30
+8/17/2023,Nvidia Corp,NVDA,,PATRICK SCHOLES,Outperform,Outperform,50,50
+2/21/2023,Nvidia Corp,NVDA,,PATRICK SCHOLES,Outperform                   ,Outperform                   ,25,25
+5/18/2023,Nvidia Corp,NVDA,,PATRICK SCHOLES,Outperform,Outperform,35,35
+8/29/2024,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,145,145
+3/19/2025,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,160,160
+5/29/2025,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,160,160
+2/27/2025,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,160,160
+11/21/2024,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,160,160
+5/23/2024,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,120,120
+2/22/2024,Nvidia Corp,NVDA,,QUINN BOLTON,Buy,Buy,85,85
+2/22/2024,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,BUY                          ,70,85
+11/21/2024,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,BUY,BUY,165,175
+8/29/2024,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,BUY,BUY,125,165
+5/23/2024,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,BUY,BUY,85,125
+8/24/2023,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,BUY                          ,50,70
+5/25/2023,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,HOLD,BUY,19,50
+2/23/2023,Nvidia Corp,NVDA,CRAIG HALLUM,RICHARD SHANNON,                             ,HOLD                         ,16.5,19
+6/16/2025,Nvidia Corp,NVDA,,RICK SCHAFER,Outperform,Outperform,175,175
+11/14/2024,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,150,175
+2/22/2024,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,Outperform,Outperform,85,85
+5/23/2024,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,Outperform,Outperform,110,110
+5/25/2023,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,35,42
+2/17/2023,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,22.5,25
+11/21/2024,Nvidia Corp,NVDA,,RICK SCHAFER,Outperform,Outperform,175,175
+5/17/2024,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,Outperform,Outperform,110,110
+2/16/2024,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,Outperform,Outperform,85,85
+3/20/2024,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,87.5,110
+8/24/2023,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,50,65
+8/17/2023,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,42,50
+3/22/2023,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,27.5,30
+2/23/2023,Nvidia Corp,NVDA,OPPENHEIMER,RICK SCHAFER,                             ,OUTPERFORM                   ,25,27.5
+2/8/2023,Meta Platforms Inc,META,LOOP CAPITAL,ROB SANDERSON,                             ,HOLD                         ,165,188
+5/1/2024,Meta Platforms Inc,META,LOOP CAPITAL,ROB SANDERSON,                             ,BUY                          ,555,550
+8/18/2023,Meta Platforms Inc,META,LOOP CAPITAL,ROB SANDERSON,Buy,Buy,375,375
+5/15/2023,Meta Platforms Inc,META,LOOP CAPITAL,ROB SANDERSON,Hold,Buy,320,320
+5/16/2025,Meta Platforms Inc,META,,ROB SANDERSON,Buy,Buy,888,888
+4/28/2025,Meta Platforms Inc,META,,ROB SANDERSON,Buy,Buy,695,695
+8/6/2024,Meta Platforms Inc,META,,ROB SANDERSON,Buy,Buy,575,575
+7/3/2024,Meta Platforms Inc,META,,ROB SANDERSON,Buy,Buy,550,550
+10/11/2024,Meta Platforms Inc,META,,ROHIT KULKARNI,Buy,Buy,620,620
+10/31/2024,Meta Platforms Inc,META,,ROHIT KULKARNI,Buy,Buy,635,635
+4/27/2023,Meta Platforms Inc,META,,ROHIT KULKARNI,Buy,Buy,255,255
+10/26/2023,Meta Platforms Inc,META,,ROHIT KULKARNI,Buy,Buy,365,365
+8/1/2024,Meta Platforms Inc,META,,ROHIT KULKARNI,Buy,Buy,550,550
+6/23/2023,Meta Platforms Inc,META,,ROHIT KULKARNI,Buy,Buy,315,315
+1/20/2023,Meta Platforms Inc,META,,ROHIT KULKARNI,Buy                          ,Buy                          ,155,155
+2/2/2024,Meta Platforms Inc,META,,ROHIT KULKARNI,Buy,Buy,500,500
+4/25/2024,Meta Platforms Inc,META,,ROHIT KULKARNI,Buy,Buy,510,510
+3/18/2024,Meta Platforms Inc,META,,ROHIT KULKARNI,Buy,Buy,500,500
+5/1/2025,Meta Platforms Inc,META,CITI,RONALD JOSEY,BUY,BUY,655,690
+7/27/2023,Meta Platforms Inc,META,CITI,RONALD JOSEY,                             ,BUY                          ,360,385
+4/27/2023,Meta Platforms Inc,META,CITI,RONALD JOSEY,Buy,Buy,315,315
+3/15/2023,Meta Platforms Inc,META,CITI,RONALD JOSEY,BUY,BUY,228,260
+2/3/2023,Meta Platforms Inc,META,CITI,RONALD JOSEY,Buy                          ,Buy                          ,228,228
+10/31/2024,Meta Platforms Inc,META,CITI,RONALD JOSEY,Buy,Buy,705,705
+8/1/2024,Meta Platforms Inc,META,CITI,RONALD JOSEY,Buy,Buy,580,580
+9/23/2024,Meta Platforms Inc,META,CITI,RONALD JOSEY,Buy,Buy,645,645
+2/2/2024,Meta Platforms Inc,META,CITI,RONALD JOSEY,Buy,Buy,525,525
+1/23/2024,Meta Platforms Inc,META,CITI,RONALD JOSEY,TOP PICK,BUY,425,440
+4/15/2024,Meta Platforms Inc,META,CITI,RONALD JOSEY,Buy,Buy,590,590
+6/27/2023,Meta Platforms Inc,META,CITI,RONALD JOSEY,BUY,BUY,315,360
+4/25/2024,Meta Platforms Inc,META,CITI,RONALD JOSEY,                             ,BUY                          ,590,550
+10/26/2023,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,                             ,OVERWEIGHT                   ,410,400
+2/2/2024,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,                             ,OVERWEIGHT                   ,400,550
+3/24/2023,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,                             ,                             ,260,270
+7/27/2023,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,                             ,OVERWEIGHT                   ,320,410
+2/2/2023,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,                             ,OVERWEIGHT                   ,165,260
+4/25/2024,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,Overweight,Overweight,520,520
+1/30/2025,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,                             ,OVERWEIGHT                   ,630,705
+10/31/2024,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,Overweight,Overweight,630,630
+8/1/2024,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,Overweight,Overweight,550,550
+4/30/2025,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,                             ,OVERWEIGHT                   ,705,640
+4/27/2023,Meta Platforms Inc,META,BARCLAYS,ROSS SANDLER,                             ,OVERWEIGHT                   ,270,320
+2/23/2023,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold                         ,Hold                         ,20,20
+8/24/2023,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,44,56
+5/25/2023,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold,Hold,39,39
+3/22/2023,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,20,22
+8/5/2024,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold,Hold,100,100
+5/23/2024,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,Hold,Hold,100,100
+12/14/2022,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,15,17
+3/20/2024,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,72,85
+2/22/2024,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,56,72
+11/21/2024,Nvidia Corp,NVDA,DEUTSCHE BANK,ROSS SEYMORE,                             ,HOLD                         ,115,140
+2/22/2024,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,BUY                          ,86.5,91
+8/9/2023,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,HOLD                         ,37,44
+5/25/2023,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,HOLD                         ,30,37
+11/22/2023,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,BUY                          ,60,66.5
+11/19/2024,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,                             ,BUY                          ,165,180
+8/24/2023,Nvidia Corp,NVDA,STIFEL,RUBEN ROY,HOLD,BUY,44,60
+4/12/2024,Meta Platforms Inc,META,WEDBUSH,SCOTT DEVITT,                             ,OUTPERFORM                   ,520,570
+1/23/2025,Meta Platforms Inc,META,WEDBUSH,SCOTT DEVITT,                             ,OUTPERFORM                   ,680,700
+1/30/2025,Meta Platforms Inc,META,WEDBUSH,SCOTT DEVITT,                             ,OUTPERFORM                   ,700,770
+7/24/2024,Meta Platforms Inc,META,WEDBUSH,SCOTT DEVITT,Outperform,Outperform,570,570
+9/26/2024,Meta Platforms Inc,META,WEDBUSH,SCOTT DEVITT,Outperform,Outperform,600,600
+2/2/2024,Meta Platforms Inc,META,WEDBUSH,SCOTT DEVITT,                             ,OUTPERFORM                   ,420,520
+4/25/2024,Meta Platforms Inc,META,WEDBUSH,SCOTT DEVITT,                             ,OUTPERFORM                   ,570,480
+10/26/2023,Meta Platforms Inc,META,,SCOTT DEVITT,Outperform,Outperform,350,350
+5/1/2025,Meta Platforms Inc,META,WEDBUSH,SCOTT DEVITT,                             ,OUTPERFORM                   ,680,750
+12/27/2023,Meta Platforms Inc,META,WEDBUSH,SCOTT DEVITT,                             ,OUTPERFORM                   ,350,420
+1/30/2025,Meta Platforms Inc,META,FBN,SHEBLY SEYRAFI,                             ,OUTPERFORM                   ,630,750
+1/3/2025,Meta Platforms Inc,META,WOLFE,SHWETA KHAJURIA,                             ,OUTPERFORM                   ,670,730
+7/16/2024,Meta Platforms Inc,META,,SHWETA KHAJURIA,Outperform                   ,Outperform                   ,620,620
+5/1/2025,Meta Platforms Inc,META,SUSQUEHANNA,SHYAM PATIL,                             ,POSITIVE                     ,800,700
+8/1/2024,Meta Platforms Inc,META,SUSQUEHANNA,SHYAM PATIL,Positive,Positive,600,600
+2/2/2023,Meta Platforms Inc,META,SUSQUEHANNA,SHYAM PATIL,                             ,POSITIVE                     ,140,225
+7/27/2023,Meta Platforms Inc,META,SUSQUEHANNA,SHYAM PATIL,                             ,POSITIVE                     ,310,400
+4/27/2023,Meta Platforms Inc,META,SUSQUEHANNA,SHYAM PATIL,                             ,POSITIVE                     ,225,310
+2/2/2024,Meta Platforms Inc,META,SUSQUEHANNA,SHYAM PATIL,                             ,POSITIVE                     ,400,550
+1/30/2025,Meta Platforms Inc,META,SUSQUEHANNA,SHYAM PATIL,POSITIVE,POSITIVE,675,800
+10/31/2024,Meta Platforms Inc,META,SUSQUEHANNA,SHYAM PATIL,Positive,Positive,675,675
+8/29/2024,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,Strong Buy,Strong Buy,140,140
+11/14/2024,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,Strong Buy,Strong Buy,170,170
+5/23/2024,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,Strong Buy,Strong Buy,120,120
+4/11/2024,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,Strong Buy,Strong Buy,110,110
+1/19/2024,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,Strong Buy,Strong Buy,70,70
+4/16/2025,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,                             ,STRONG BUY                   ,170,150
+8/16/2023,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,STRONG BUY,STRONG BUY,45,55
+5/25/2023,Nvidia Corp,NVDA,RAYMOND JAMES,SRINI PAJJURI,                             ,STRONG BUY                   ,29,45
+5/23/2024,Nvidia Corp,NVDA,,STACY RASGON,Outperform,Outperform,130,130
+3/28/2023,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,26.5,30
+8/24/2023,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,47.5,67.5
+5/25/2023,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,30,47.5
+11/9/2023,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,Outperform,Outperform,67.5,67.5
+2/22/2024,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,70,100
+11/22/2023,Nvidia Corp,NVDA,BERNSTEIN,STACY RASGON,                             ,OUTPERFORM                   ,67.5,70
+1/25/2023,Meta Platforms Inc,META,CREDIT SUISSE,STEPHEN JU,                             ,OUTPERFORM                   ,145,180
+3/30/2023,Meta Platforms Inc,META,CREDIT SUISSE,STEPHEN JU,                             ,OUTPERFORM                   ,220,251
+6/26/2025,Meta Platforms Inc,META,,STEPHEN JU,Buy,Buy,812,812
+4/25/2024,Meta Platforms Inc,META,,STEPHEN JU,Buy,Buy,575,575
+1/30/2025,Meta Platforms Inc,META,UBS,STEPHEN JU,                             ,BUY                          ,736,786
+7/27/2023,Meta Platforms Inc,META,CREDIT SUISSE,STEPHEN JU,                             ,OUTPERFORM                   ,361,407
+4/27/2023,Meta Platforms Inc,META,CREDIT SUISSE,STEPHEN JU,                             ,OUTPERFORM                   ,251,277
+1/30/2025,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,OVERWEIGHT,OVERWEIGHT,670,775
+1/17/2024,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,                             ,OVERWEIGHT                   ,355,415
+12/10/2024,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,Overweight,Overweight,670,670
+4/27/2023,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,                             ,OVERWEIGHT                   ,250,270
+10/31/2024,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,Overweight,Overweight,650,650
+4/11/2024,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,Overweight,Overweight,600,600
+4/13/2023,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,Overweight                   ,Overweight                   ,250,250
+10/26/2023,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,                             ,OVERWEIGHT                   ,365,355
+5/1/2025,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,OVERWEIGHT,OVERWEIGHT,610,650
+8/1/2024,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,OVERWEIGHT,OVERWEIGHT,545,575
+4/25/2024,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,OVERWEIGHT,OVERWEIGHT,600,545
+4/10/2025,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,OVERWEIGHT,OVERWEIGHT,775,610
+6/27/2025,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,OVERWEIGHT,OVERWEIGHT,650,808
+2/2/2023,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,OVERWEIGHT,NEUTRAL,136,215
+1/26/2023,Meta Platforms Inc,META,PIPER SANDLER,THOMAS CHAMPION,                             ,NEUTRAL                      ,116,136
+5/25/2023,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,31.5,47.5
+4/30/2024,Nvidia Corp,NVDA,,TIMOTHY ARCURI,Buy,Buy,115,115
+8/15/2023,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY,47.5,54
+4/17/2025,Nvidia Corp,NVDA,,TIMOTHY ARCURI,Buy,Buy,180,180
+10/8/2024,Nvidia Corp,NVDA,,TIMOTHY ARCURI,Buy,Buy,150,150
+5/23/2024,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY,115,120
+2/22/2024,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY.,85,80
+11/22/2023,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,                             ,BUY                          ,56,58
+8/24/2023,Nvidia Corp,NVDA,UBS,TIMOTHY ARCURI,BUY,BUY,54,56
+2/16/2024,Nvidia Corp,NVDA,BARCLAYS,TOM O'MALLEY,OVERWEIGHT,OVERWEIGHT,65,85
+5/29/2025,Nvidia Corp,NVDA,BARCLAYS,TOM O'MALLEY,Overweight,Overweight,170,170
+6/17/2025,Nvidia Corp,NVDA,BARCLAYS,TOM O'MALLEY,OVERWEIGHT,OVERWEIGHT,170,200
+4/22/2025,Nvidia Corp,NVDA,BARCLAYS,TOM O'MALLEY,                             ,OVERWEIGHT                   ,175,155
+8/15/2023,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,47,57
+5/25/2023,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,NEUTRAL,OUTPERFORM,30,47.5
+8/24/2023,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,57,75
+2/23/2023,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,NEUTRAL                      ,15,23
+11/20/2024,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,150,195
+8/29/2024,Nvidia Corp,NVDA,BAIRD,TRISTAN GERRA,                             ,OUTPERFORM                   ,120,150
+5/29/2025,Nvidia Corp,NVDA,,VIJAY RAKESH,Outperform,Outperform,170,170
+6/4/2024,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,BUY,BUY,118,127.5
+11/22/2023,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,59,62.5
+7/3/2025,Nvidia Corp,NVDA,,VIJAY RAKESH,Outperform,Outperform,185,185
+2/23/2023,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,20,23
+5/23/2024,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Buy,Buy,118,118
+3/7/2024,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Buy,Buy,100,100
+7/16/2025,Nvidia Corp,NVDA,,VIJAY RAKESH,Outperform,Outperform,192,192
+3/14/2025,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Outperform,Outperform,168,168
+11/12/2024,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,Outperform,Outperform,165,165
+2/13/2024,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,75,92
+11/20/2024,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,OUTPERFORM                   ,165,175
+8/29/2024,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,OUTPERFORM,OUTPERFORM,132,140
+8/24/2023,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,53,59
+5/25/2023,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,29,40
+3/22/2023,Nvidia Corp,NVDA,MIZUHO,VIJAY RAKESH,                             ,BUY                          ,23,29
+4/19/2023,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy                          ,Buy                          ,34,34
+8/29/2024,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,165,165
+3/19/2025,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,200,200
+4/16/2025,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,160,160
+2/27/2025,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,200,200
+11/21/2024,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,190,190
+9/5/2024,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,165,165
+5/23/2024,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,132,132
+3/13/2024,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,110,110
+8/24/2023,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy,Buy,65,65
+2/23/2023,Nvidia Corp,NVDA,BAML,VIVEK ARYA,Buy                          ,Buy                          ,27.5,27.5
+2/2/2024,Nvidia Corp,NVDA,BAML,VIVEK ARYA,BUY,TOP PICK,70,80
+2/22/2024,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,80,92.5
+10/17/2024,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,165,190
+5/14/2025,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,150,160
+11/22/2023,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,65,70
+5/31/2023,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,45,50
+5/25/2023,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,34,45
+7/18/2023,Nvidia Corp,NVDA,BAML,VIVEK ARYA,BUY,BUY,50,55
+3/21/2023,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,27.5,31
+2/14/2023,Nvidia Corp,NVDA,BAML,VIVEK ARYA,                             ,BUY                          ,21.5,25.5
+2/27/2025,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,204,205
+11/19/2024,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,Buy,Buy,167,167
+5/23/2024,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,Buy,Buy,128.8,128.8
+2/22/2024,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,69.1,91.1
+8/27/2024,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,140,145
+6/27/2024,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,BUY,BUY,128.8,140
+1/5/2024,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,67.4,69.1
+11/22/2023,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,66.8,67.4
+8/24/2023,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,54.5,66.8
+7/14/2023,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,47,54.5
+5/25/2023,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,32.2,47
+5/10/2023,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,28.9,32.2
+3/22/2023,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,26.6,28.9
+2/23/2023,Nvidia Corp,NVDA,TRUIST,WILLIAM STEIN,                             ,BUY                          ,23.8,26.6
+12/17/2024,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,Buy,Buy,700,700
+4/25/2024,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,Buy,Buy,535,535
+4/27/2023,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,Buy,Buy,265,265
+1/30/2025,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,                             ,BUY                          ,700,770
+5/1/2025,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,BUY,BUY,700,720
+10/10/2024,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,BUY,BUY,570,650
+8/1/2024,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,                             ,BUY                          ,535,570
+4/17/2024,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,                             ,BUY                          ,525,550
+4/17/2025,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,                             ,BUY                          ,770,700
+10/26/2023,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,                             ,BUY                          ,390,405
+7/27/2023,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,                             ,BUY                          ,340,390
+7/19/2023,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,                             ,BUY                          ,265,340
+3/14/2023,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,                             ,BUY                          ,230,215
+2/2/2023,Meta Platforms Inc,META,TRUIST,YOUSSEF SQUALI,                             ,BUY                          ,160,215
